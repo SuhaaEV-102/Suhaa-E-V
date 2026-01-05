@@ -72,7 +72,7 @@ drug-related data and respond to user queries.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SuhaaEV-102&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuhaaEV-102&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 
 </div>
 
@@ -92,7 +92,7 @@ drug-related data and respond to user queries.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/suhaaev2005/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suhaaev2005/)
 [![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail)](mailto:suhaasuhaa15@gmail.com)
 
 </div>
