@@ -51,12 +51,7 @@
 ### 🔹 **Student Performance & Attention Tracker**
 > ML-based system to predict academic performance and attention levels  
 using lifestyle and study-related data.  
-**Tech:** Python, ML, Data Analytics  
-
-### 🔹 **Sepsis Prediction System**
-> Machine Learning model to assist in early sepsis risk prediction  
-with an interactive frontend.  
-**Tech:** Pandas, NLP, Scikit-learn  
+**Tech:** Python, ML, Data Analytics    
 
 ### 🔹 **Q&A Chatbot for Drug Analysis**
 > An intelligent question-answering chatbot designed to analyze  
