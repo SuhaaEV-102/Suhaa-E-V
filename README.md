@@ -88,3 +88,4 @@ drug-related data and respond to user queries.
 ⭐ *Open to Data Science, AI & Analytics roles — feel free to explore my work!*  
 
 </div>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=SuhaaEV-102)
